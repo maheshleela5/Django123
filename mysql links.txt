@@ -1,0 +1,13 @@
+To Download MySQLdb:
+-------------------------
+
+
+ MySQL-python-1.2.3.win-amd64-py2.7.exe
+
+
+
+
+
+https://dev.mysql.com/downloads/file/?id=378025(mysql-connector-c-6.0.2-winx64.msi)
+
+ 
